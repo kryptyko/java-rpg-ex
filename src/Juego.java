@@ -50,6 +50,7 @@ public class Juego {
                     break;
                 case "u":
                     usarItem();
+                    break;
                 case "l":
                     luchar();
                     break;
