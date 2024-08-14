@@ -55,7 +55,7 @@ public class Juego {
                     luchar();
                     break;
                 case "s":
-                    interfaz.mostrarMensaje("Gracias por jugar!");
+                    interfaz.mostrarMensaje("Gracias por  jugar!");
                     return;
                 default:
                     interfaz.mostrarMensaje("Opción no válida.");
